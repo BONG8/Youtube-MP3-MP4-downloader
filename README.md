@@ -1,5 +1,6 @@
 Youtube to MP3/MP4 converter using pytube and moviepy.
 A simple beginner friendly project.
+It can download MP3, MP4 and in one run MP3 and MP4 simultaneously
 
 HOW TO USE IT:
 Download the python file and run it
