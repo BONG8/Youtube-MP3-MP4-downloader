@@ -41,7 +41,7 @@ def OptionOneThree(videoname):
     
 
 #choose the path where to save the file
-path_ = str(input(" Insert the path where to save the file or the files")) 
+path_ = str(input("Insert the path where to save the file or the files: ")) 
 
 print("The video url is: " + video_url)
 
